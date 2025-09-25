@@ -42,7 +42,6 @@ but cannot commit to any SemVer or API stability guarantees. Be warned: we may
 change things in a backwards-incompatible way at any time!
 
 ## License
-
 Unless otherwise specified, all code in this repository is dual-licensed under
 either:
 
